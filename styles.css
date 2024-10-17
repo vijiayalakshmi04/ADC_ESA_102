@@ -241,9 +241,10 @@ body {
 
 /* Slogan and Description */
 .slogan {
-  font-family: 'Badaboom BB', 'Raleway', sans-serif;
-  font-size: 3.5rem;
+  font-family: 'Badaboom BB', sans-serif;
+  font-size: 4rem;
   font-weight: 700;
+  letter-spacing: 5px;
   text-transform: uppercase;
   color: #FBFAF5;
   padding: 20px 0;
